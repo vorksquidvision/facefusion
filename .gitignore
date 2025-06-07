@@ -1,4 +1,6 @@
-__pycache__
+# Python virtual environment
+venv/
+__pycache__/
 .assets
 .caches
 .jobs
